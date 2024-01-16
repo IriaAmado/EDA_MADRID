@@ -16,5 +16,7 @@ Renta Media Anual: Evaluación de la renta media por distrito y su relación con
 Tasa de Desempleo: Análisis de la tasa de desempleo por distrito.
 Servicios Esenciales: Revisión de la disponibilidad y distribución de servicios esenciales en los distritos.
 
-# Contribución
+# Contribución 
+
+
 Siéntete libre de realizar cualquier contribución a este proyecto.
